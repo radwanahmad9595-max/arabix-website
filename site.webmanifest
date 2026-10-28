@@ -1,0 +1,14 @@
+{
+  "name": "أرابيكس ARABIx",
+  "short_name": "ARABIx",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F7F8FC",
+  "theme_color": "#1F1B57",
+  "icons": [
+    { "src": "/assets/img/mark.svg", "sizes": "any", "type": "image/svg+xml" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
