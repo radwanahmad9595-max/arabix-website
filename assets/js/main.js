@@ -2,7 +2,7 @@
 (function () {
   'use strict';
 
-  var CONTACT_EMAIL = 'contact@arabix.ai';
+  var CONTACT_EMAIL = 'contact@arab-ix.com';
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   /* ---------- Year ---------- */

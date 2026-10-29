@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://arabix.ai/sitemap.xml
+Sitemap: https://arab-ix.com/sitemap.xml
